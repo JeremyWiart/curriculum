@@ -1,0 +1,40 @@
+table.tab_1{
+    text-align:center;
+    width:100%;
+}
+
+table.tab_2{
+    display:inline;
+    text-align:center;
+}
+
+table.tab_3{
+    position:relative;
+    top:1em;
+    text-align:center;
+    width:100%;
+}
+
+table.tab_4{
+    position:relative;
+    top:2em;
+}
+
+th.th_1{
+    border-bottom:2px solid black;
+    border-left:2px solid black;
+    width:300px;
+    text-align:left;
+}
+
+td.td_1,td.td_2{
+    font-weight: bold;
+}
+
+td.td_3{
+    border-bottom:2px solid black;
+}
+
+
+
+
