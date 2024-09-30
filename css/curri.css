@@ -1,3 +1,7 @@
+body{
+
+    background-color: brown;
+}
 table.tab_1{
     text-align:center;
     width:100%;
@@ -20,21 +24,27 @@ table.tab_4{
     top:2em;
 }
 
-th.th_1{
+table.tab_5{
+    position:relative;top:2em;
+}
+
+th.th_1,th.th_2{
     border-bottom:2px solid black;
     border-left:2px solid black;
     width:300px;
     text-align:left;
 }
 
-td.td_1,td.td_2{
+td.td_1,td.td_2,td.td_5,td.td_6,td.td_9,td.td_10,td.td_13,td.td_14,td.td_15,td.td_16,td.td_17{
     font-weight: bold;
 }
 
-td.td_3{
+td.td_3,td.td_7,td.td_8,td.td_11,td.td_12{
     border-bottom:2px solid black;
 }
-
+td.td_4{
+border-bottom:2px solid black;
+}
 
 
 
